@@ -7,7 +7,7 @@ public class Soma {
 		int n1=  5;
         int n2= 10;
         
-        int soma = 5 + 10;
+        int soma = n1 + n2;
          
         System.out.print("O resultado da soma é: " + soma);	
 	}
